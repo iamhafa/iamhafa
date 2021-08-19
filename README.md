@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @iamhafa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 This is my Github
+- 🌱 Thanks for visiting
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-iamhafa/iamhafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Please contact me 🛸
