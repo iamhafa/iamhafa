@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @iamhafa
 - 👀 This is my Github
 - 🌱 Nice to meet u
-- 📫 Please contact me 🛸
